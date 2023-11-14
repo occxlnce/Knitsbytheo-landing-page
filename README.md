@@ -1,6 +1,6 @@
 # Knitsbytheo Website
 
-This is a simple README file for the HTML code provided for the Knitsbytheo website. This README provides an overview of the code structure, its components, and how to use it.
+link: https://knitsbytheo.netlify.app
 
 ## Table of Contents
 
